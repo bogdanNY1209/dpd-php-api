@@ -3,7 +3,6 @@
     "type": "library",
     "description": "PHP wrapper for DPD Germany SOAP API",
     "require": {
-        "ext-soap": "^8.0",
         "ext-mbstring": "*",
         "php": ">=7.2.0"
     },
